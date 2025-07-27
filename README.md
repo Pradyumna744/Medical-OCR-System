@@ -136,10 +136,6 @@ http://localhost:5000
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📬 Contact
-
-For any questions or inquiries, please contact Shriram2005 at [mange.shriram@gmail.com](mange.shriram@gmail.com).
-
 ## 🙏 Acknowledgements
 
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) for the powerful OCR engine
